@@ -22,9 +22,13 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Экстренные и государственные службы](pages/emergency.md)
+[О городе](pages/city.md)
 [Транспорт](pages/transport.md)
-[Магазины, услуги и развлечения](pages/shops.md)
+[Услуги и сервисы]()
+
+  * [Экстренные и государственные службы](pages/emergency.md)
+  * [Магазины, развлечения и т.п.](pages/shops.md)
+
 [Прочее](pages/misc.md)
 [Инструкция по редактированию](pages/editguide.md)
 
