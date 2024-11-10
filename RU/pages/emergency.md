@@ -21,4 +21,4 @@
 [Телерам канал с отключениями](https://t.me/ArmeniaBlackouts). Канал неофициальный, создан энтузиастами-релокантами [https://haywiki.org/](https://haywiki.org/), агрегирует в себе информацию с вышеуказаных сайтов
 
 #### Медицина
-См. [здесь](http://hrazdan.localhost/RU/#!pages/shops.md#%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0)
+См. [здесь](/RU/#!pages/shops.md#%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0)
